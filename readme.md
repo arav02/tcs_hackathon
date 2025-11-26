@@ -1,1 +1,0 @@
-pip install streamlit gTTS pydub SpeechRecognition streamlit-mic-recorder
